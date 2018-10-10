@@ -1,3 +1,3 @@
 # etch-a-sketch
-Etch-A-Sketch Project
-http://www.theodinproject.com/web-development-101/javascript-and-jquery?ref=lnav
+Google Homepage Project
+https://www.theodinproject.com/courses/web-development-101/lessons/html-css
