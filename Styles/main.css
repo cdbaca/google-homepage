@@ -7,3 +7,7 @@ li {
 .right {
     float:right;
 }
+.center {
+    margin:auto;
+    width:50%;
+}
