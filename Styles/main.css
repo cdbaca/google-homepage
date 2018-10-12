@@ -7,7 +7,15 @@ li {
 .right {
     float:right;
 }
-.center {
-    margin:auto;
-    width:50%;
+.footer {
+	position:fixed;
+	margin:0;
+	padding:0;
+	left:0;
+	bottom:0;
+	width:100%;
 }
+.center{
+	padding-top: 70px;
+	text-align: center;
+	}
